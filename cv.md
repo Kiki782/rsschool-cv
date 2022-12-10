@@ -23,5 +23,9 @@ I'm 27 years old, I had worked as a manager for 5 years and now I want to change
 # Education
 * Moscow State Open University
 * Js / Front-End. Stage 0 (in progress)
+# Languages
+* Russian - Native
+* English - B1
+* Italian - B1
 
 
