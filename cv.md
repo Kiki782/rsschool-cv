@@ -11,6 +11,7 @@ I'm 27 years old, I had worked as a manager for 5 years and now I want to change
 # Skills
 * In progress
 # Code example
+
 ```
 </head>
 <body>
@@ -20,6 +21,7 @@ I'm 27 years old, I had worked as a manager for 5 years and now I want to change
 </body>
 </html>
 ```
+
 # Education
 * Moscow State Open University
 * Js / Front-End. Stage 0 (in progress)
