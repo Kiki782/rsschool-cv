@@ -13,13 +13,9 @@ I'm 27 years old, I had worked as a manager for 5 years and now I want to change
 # Code example
 
 ```
-</head>
-<body>
-<h1>Hello hello World</h1>
-<script src="app.js"></script>
-
-</body>
-</html>
+function multiply(a, b){
+  return  a * b
+}
 ```
 
 # Education
